@@ -1,0 +1,224 @@
+.detailedview-container {
+  min-height: 100vh;
+}
+.detailedview-detailedview {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(189, 203, 255, 1);
+}
+.detailedview-rectangle1 {
+  top: 53px;
+  right: 102px;
+  width: 386px;
+  height: 51px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.detailedview-text {
+  top: 43px;
+  left: 33px;
+  color: rgba(255, 255, 255, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.detailedview-text02 {
+  top: 67px;
+  color: rgba(70, 70, 70, 1);
+  right: 115px;
+  width: 345px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.detailedview-rectangle2 {
+  top: 53px;
+  right: 44px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.detailedview-text04 {
+  top: 66px;
+  color: rgba(0, 0, 0, 1);
+  right: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.detailedview-rectangle3 {
+  top: 162px;
+  left: 102px;
+  width: 624px;
+  height: 610px;
+  position: absolute;
+  border-color: transparent;
+}
+.detailedview-rectangle4 {
+  top: 162px;
+  left: x;
+  right: 100px;
+  width: 624px;
+  height: 610px;
+  position: absolute;
+  border-color: transparent;
+}
+.detailedview-screen-shot20230113at2321 {
+  top: 162px;
+  left: 102px;
+  width: 624px;
+  height: 610px;
+  position: absolute;
+  border-color: transparent;
+}
+.detailedview-text06 {
+  top: 173px;
+  color: rgba(0, 0, 0, 1);
+  right: 110px;
+  width: 599px;
+  height: auto;
+  margin: 0;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detailedview-text23 {
+  top: 441px;
+  color: rgb(0, 0, 0);
+  right: 110px;
+  width: 599px;
+  height: auto;
+  margin: 0;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detailedview-text34 {
+  top: 697px;
+  color: rgb(0, 0, 0);
+  right: 110px;
+  width: 599px;
+  height: auto;
+  margin: 0;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detailedview-text40 {
+  top: 829px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 257px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detailedview-text42 {
+  top: 104px;
+  left: 0px;
+  color: rgba(255, 252, 252, 1);
+  right: 0px;
+  width: 574px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.detailedview-text44 {
+  top: 102px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 230px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

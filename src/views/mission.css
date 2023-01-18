@@ -1,0 +1,131 @@
+.mission-container {
+  min-height: 100vh;
+}
+.mission-mission {
+  width: 100%;
+  height: 982px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(189, 203, 255, 1);
+}
+.mission-text {
+  top: 43px;
+  left: 33px;
+  color: rgba(255, 255, 255, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mission-text02 {
+  top: 43px;
+  color: rgba(112, 172, 251, 1);
+  right: 36px;
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mission-text04 {
+  top: 151px;
+  color: rgba(255, 255, 255, 1);
+  right: 36px;
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mission-text06 {
+  top: 97px;
+  color: rgba(255, 255, 255, 1);
+  right: 36px;
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mission-text08 {
+  top: 354px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  width: 1007px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Semi Bold;
+  margin-top: auto;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: auto;
+  font-stretch: normal;
+  margin-right: auto;
+  margin-bottom: auto;
+  text-decoration: none;
+}
+.mission-text25 {
+  top: 102px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  width: 230px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
